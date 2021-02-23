@@ -3,8 +3,11 @@
   Move.it
 </h1>
  
-<h3>
+<span>
  Reactjs project developed at #NLW. Next Level Week event provided by Rocketseat
-</h3>
+</spam>
 
-<img alt="Move.it Cover" title="#MoveitCover" src="./images/Capa.png" />
+<spam>
+  <img alt="Move.it Cover" title="#MoveitCover" src="./images/Capa.png" />
+</spam>
+
