@@ -1,8 +1,10 @@
 <h1>
+  <img alt="Move.it Logo" title="#MoveitLogo" src="./images/Logo.png" />
   Move.it
-  <img alt="Move.it Logo title="#MoveitLogo" src="./images/Logo.png" />
 </h1>
-
+ 
+<h2>
  Reactjs project developed at #NLW. Next Level Week event provided by Rocketseat
+</h2>
 
-![MoveitCover](images/Capa.png)
+<img alt="Move.it Cover" title="#MoveitCover" src="./images/Capa.png" />
