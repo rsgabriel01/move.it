@@ -5,7 +5,7 @@
  
 <h4>
   Reactjs project developed at #NLW. Next Level Week event provided by Rocketseat
-  
+  <br>
   <img alt="Move.it Cover" title="#MoveitCover" src="./images/Capa.png" />
 </h4>
 
