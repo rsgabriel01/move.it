@@ -1,6 +1,6 @@
-<h1 style="display: flex; align-items: center; justify-content: center">
+<h1 style="display: flex; align-content: center"">
   <img alt="Move.it Logo" title="#MoveitLogo" src="./images/Logo.png" />
-  Move.it
+  <strong>Move.it</strong>
 </h1>
  
 <h2>
