@@ -1,10 +1,10 @@
-<h1 style="display: flex; flex-direction: row; font-weight: bold">
+<h1>
   <img alt="Move.it Logo" title="#MoveitLogo" src="./images/Logo.png" />
   Move.it
 </h1>
  
-<h2>
+<h3>
  Reactjs project developed at #NLW. Next Level Week event provided by Rocketseat
-</h2>
+</h3>
 
 <img alt="Move.it Cover" title="#MoveitCover" src="./images/Capa.png" />
