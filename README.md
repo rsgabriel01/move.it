@@ -1,4 +1,4 @@
-<h1 style="display: flex; align-content: center"">
+<h1 style="display: flex; flex-direction: row; align-content: center">
   <img alt="Move.it Logo" title="#MoveitLogo" src="./images/Logo.png" />
   <strong>Move.it</strong>
 </h1>
