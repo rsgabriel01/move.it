@@ -1,4 +1,4 @@
-<h1 style="text-align: center">
+<h1 style="text-align: top">
   <img alt="Move.it Logo" title="#MoveitLogo" src="./images/Logo.png" />
   Move.it
 </h1>
